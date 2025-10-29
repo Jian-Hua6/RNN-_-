@@ -31,7 +31,7 @@ PyTorch · TensorFlow · OpenCV · Ultralytics YOLOv8 · Colab/Drive · Python
 
 ## Contact
 - Maintainer: Shauyeh (Chiou)  
-- Email: <you@example.com>  
+- Email: <jianhua7052@gmail.com>  
 - Tags: GAN, Image-to-Image, Vision, Robotics Prototype
 
 ## License
